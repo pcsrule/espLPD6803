@@ -16,3 +16,4 @@ I've provided a few effect implementations in the effects.c file which you can o
 ## References
 * [LPD6803 Datasheet](https://www.adafruit.com/datasheets/LPD6803.pdf) from Adafruit
 * [SPI Driver](https://github.com/MetalPhreak/ESP8266_SPI_Driver) with some modifications to make it work with esp-open-rtos
+* [LPD6803 based LED strip](http://www.banggood.com/5M-5050-RGB-6803-IC-Single-LED-Strip-Light-Waterproof-IP67-12V-DC-p-941782.html) that I used. They're available many other places as well.
